@@ -1,0 +1,14 @@
+img {
+  max-width: 75%;
+
+  /* íà âñÿêèé ñëó÷àé, ÷òîáû ñîõðàíèòü ïðîïîðöèè */
+  height: auto !important;
+}
+
+@media (max-width: 780px) {
+#wb_indexImage3,#wb_indexImage2,#wb_indexImage1 {
+  max-width: 100%;
+  height: auto !important;
+
+}
+}

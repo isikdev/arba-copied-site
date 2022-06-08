@@ -1,0 +1,196 @@
+Uri: https://www.arpa.by/
+File Name: C:\Downloaded Web Sites\www.arpa.by\index.htm
+Content Type: text/html
+
+Uri: https://www.arpa.by/favicon.ico
+File Name: C:\Downloaded Web Sites\www.arpa.by\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.arpa.by/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.arpa.by/index.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\index.css
+Content Type: text/css
+
+Uri: https://www.arpa.by/main.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\main.css
+Content Type: text/css
+
+Uri: https://www.arpa.by/check.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\check.css
+Content Type: text/css
+
+Uri: https://www.arpa.by/style.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\style.css
+Content Type: text/css
+
+Uri: https://www.arpa.by/modal.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\modal.css
+Content Type: text/css
+
+Uri: https://www.arpa.by/label.css
+File Name: C:\Downloaded Web Sites\www.arpa.by\label.css
+Content Type: text/css
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\ajax\libs\jquery\1.11.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.arpa.by/jquery-1.11.3.min.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\jquery-1.11.3.min.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/jquery.form.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/jquery.validate.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/transition.min.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\transition.min.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/modal.min.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\modal.min.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/ajax.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\ajax.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/chekbotkr.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\chekbotkr.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/images/logo.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\logo.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/image/2.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\image\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/image/3.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\image\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/image/4.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\image\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/image/1.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\image\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/image/5.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\image\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/image/6.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\image\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/images/caaa174f-7fe9-4ad1-ab82-e9beb9008317.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\caaa174f-7fe9-4ad1-ab82-e9beb9008317.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/images/telegram.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\telegram.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/images/velco.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\velco.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/images/phones.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\phones.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/images/obiemnaya.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\obiemnaya.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/images/korob.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\korob.png
+Content Type: image/png
+
+Uri: https://www.arpa.by/images/ploskaya.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\ploskaya.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/assets/jquery.maskedinput.js
+File Name: C:\Downloaded Web Sites\www.arpa.by\assets\jquery.maskedinput.js
+Content Type: application/javascript
+
+Uri: https://www.arpa.by/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.arpa.by\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.arpa.by/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.arpa.by\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.arpa.by/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.arpa.by\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.arpa.by/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.arpa.by\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.arpa.by/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.arpa.by\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.arpa.by/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.arpa.by\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arpa.by/images/fon.jpg
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\fon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.arpa.by/robotolight.eot
+File Name: C:\Downloaded Web Sites\www.arpa.by\robotolight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.arpa.by/robotolight.eot?iefix
+File Name: C:\Downloaded Web Sites\www.arpa.by\robotolight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.arpa.by/robotolight.ttf
+File Name: C:\Downloaded Web Sites\www.arpa.by\robotolight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.arpa.by/robotomedium.eot
+File Name: C:\Downloaded Web Sites\www.arpa.by\robotomedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.arpa.by/robotomedium.eot?iefix
+File Name: C:\Downloaded Web Sites\www.arpa.by\robotomedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.arpa.by/robotomedium.ttf
+File Name: C:\Downloaded Web Sites\www.arpa.by\robotomedium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.arpa.by/images/fon_chern.png
+File Name: C:\Downloaded Web Sites\www.arpa.by\images\fon_chern.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/apra.gr/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0&show_follower_visibility_disclosure=0
+File Name: C:\Downloaded Web Sites\www.arpa.by\apra.gr\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/?next=/apragrupp/
+File Name: C:\Downloaded Web Sites\www.arpa.by\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/46151148/1
+File Name: C:\Downloaded Web Sites\www.arpa.by\watch\46151148\1.gif
+Content Type: image/gif
+

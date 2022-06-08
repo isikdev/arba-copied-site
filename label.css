@@ -1,0 +1,35 @@
+#indexButton1:hover  {
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   background-color: #bd0000;
+   background-image: none;
+   border: 1px #FFFFFF solid;
+   border-radius: 4px;
+   color: #FFFFFF;
+   font-family: "Roboto Medium";
+   font-size: 36px;
+   font-weight: normal;
+}
+#indexButton2:hover,
+#indexButton3:hover,#indexButton4:hover,
+#indexButton5:hover,#indexButton6:hover,
+#indexButton7:hover,#indexButton8:hover,
+#indexButton9:hover,#indexButton10:hover,
+#indexButton11:hover,#indexButton12:hover,
+#indexButton13:hover,#indexButton14:hover,
+#indexButton15:hover,#indexButton16:hover,
+#indexButton17:hover,#indexButton18:hover,
+#indexButton19:hover,#indexButton20:hover,
+#indexButton21:hover,#indexButton22:hover,
+#indexButton23:hover  {
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   background-color: #3caf00;
+   background-image: none;
+   border: 1px #FFFFFF solid;
+   border-radius: 4px;
+   color: #FFFFFF;
+   font-family: "Roboto Medium";
+   font-size: 20px;
+   font-weight: normal;
+}
